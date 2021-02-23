@@ -1,5 +1,6 @@
-/* If you're feeling fancy you can add interactivity 
-    to your site with Javascript */
+var money = 10.00;
+var cokes = 0;
+var chips = 0;
 
-// prints "hi" in the browser's dev tools console
-console.log("hi");
+$(".buy").click(function() {
+});
