@@ -5,9 +5,9 @@ var chips = 0;
 let random = Math.random();
 console.log(random);
 
-$(".buy").click(function() {
-let usernameInput = $(".username").val();
-  
+ if ( cokes - money || chips - money )
+     
+   
+
   
 });
-   
