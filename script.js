@@ -6,9 +6,10 @@ let random = Math.random();
 console.log(random);
 
 $(".buy").click(function() {
-  if(cokes - money || chips - money);
-  
-  
-  
+  if(cokes - money );
+   $(".result-two").html("money");
+  if(chips - money);
+   $(".result-two").html(money);
+
 });
    
