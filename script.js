@@ -5,9 +5,9 @@ var chips = 0;
 let random = Math.random();
 console.log(random);
 
- if ( cokes - money || chips - money )
-     
-   
-
+$(".buy").click(function() {
+  
+  
   
 });
+   
