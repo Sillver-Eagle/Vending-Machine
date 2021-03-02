@@ -6,7 +6,7 @@ let random = Math.random();
 console.log(random);
 
 $(".buy").click(function() {
-  
+let usernameInput = $(".username").val();
   
   
 });
